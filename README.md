@@ -18,7 +18,7 @@ Table of Contents
 
 ##Requests
 
-###Retrive frontpage'ish channels
+###Retrive frontpage'ish channels 首页数据
 Returns two lists containing channels data.
 
 adsdata - List with premium/paid channels(?)
@@ -70,7 +70,7 @@ http://api.m.panda.tv/ajax_get_live_list_by_cate?cate=dota2&pageno=1&pagenum=4&_
 ```
 [Sample output](/jsonsample/ajax_get_live_list_by_cate.json)
 
-###Retrive game categories
+###Retrive game categories 栏目分类列表
 ```
 http://static.api.m.panda.tv/android_hd/cate.json
 ```
